@@ -69,7 +69,7 @@
 
 #### 2. 安装本脚本
 
-**方法2：手动安装**
+**方法1：手动安装（没上到油猴的插件库）**
 1. 访问 [Releases 页面](https://github.com/ElTarget/tencent_metting_downloader/releases)
 2. 下载最新的 `.js` 文件
 3. 到油猴窗口或点击安装
@@ -118,15 +118,15 @@
 
 #### ⚡ 性能优化
 - **虚拟滚动支持**：高效处理大量转写内容
-- **防抖处理**：避免重复操作和界面卡顿
+- **防抖处理(未更新)**：避免重复操作和界面卡顿
 - **内存管理**：及时清理不再使用的资源
 - **分批处理**：大文件分批次导出，避免浏览器崩溃
 
 #### 🛡️ 稳定性保障
-- **错误重试**：网络错误自动重试，最多3次
-- **超时保护**：操作超时自动中断，防止无限等待
+- **错误重试(未更新)**：网络错误自动重试，最多3次
+- **超时保护(未更新)**：操作超时自动中断，防止无限等待
 - **降级处理**：主要功能失效时提供备选方案
-- **异常捕获**：完整的错误捕获和用户提示
+- **异常捕获(未更新)**：完整的错误捕获和用户提示
 
 #### 🎨 现代化UI
 - **玻璃拟态设计**：流行的半透明视觉效果
@@ -145,6 +145,7 @@
 v2.0.0 (2025-03-15)
 - 完全重构代码结构
 - 新增同步导出和整合一个文件导出功能
+- 新增主页按钮长按拖动
 - 优化UI
 
 v1.0.0 (2025-03-10)
@@ -153,19 +154,28 @@ v1.0.0 (2025-03-10)
 
 ## 📄 许可证
 
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-本项目基于 [MIT许可证](LICENSE) 开源，您可以：
+本项目基于自定义非商用协议开源：
 
-- ✅ 自由使用、修改和分发
-- ✅ 用于商业和个人项目
+- ✅ 本代码基于自定义非商用协议（版本1.0，2026-03-15生效）授权，仅限个人非盈利使用
+- ✅ 禁止行为包括：出售、广告变现、付费集成、付费小程序/APP开发等
 - ✅ 学习和技术交流
 
 但请遵守：
 - 📝 保留原作者署名
 - ⚠️ 承担使用风险
 - 🤝 尊重开源精神
-
+<div align="center">
+ 
+### ⭐ 支持项目
+ 
+如果这个项目对您有帮助，请给我们一个Star！
+ 
+[![GitHub Stars](https://img.shields.io/github/stars/ElTarget/tencent_metting_downloader?style=social)](https://github.com/ElTarget/tencent_metting_downloader/stargazers)
+ 
+**🎯 您的支持是我们持续改进的动力！**
+ 
+</div>
 
 
 <div align="center">
@@ -173,9 +183,3 @@ v1.0.0 (2025-03-10)
 ### ⭐ 支持项目
 
 如果这个项目对您有帮助，请给我们一个Star！
-
-[![GitHub Stars](https://img.shields.io/github/stars/awesome-tampermonkey/tencent-meeting-exporter?style=social)](https://github.com/awesome-tampermonkey/tencent-meeting-exporter/stargazers)
-
-**🎯 您的支持是我们持续改进的动力！**
-
-</div>
