@@ -1,21 +1,33 @@
-MIT License
+# 代码使用许可协议
+版本：1.0，[发布日期]
 
-Copyright (c) 2026 EITarget
+## 1. 协议范围
+本协议适用于 [你的姓名/昵称]（以下简称“授权方”）发布的所有代码（包括源代码、二进制文件、文档等，以下简称“本代码”）。
+任何个人或实体（以下简称“被授权方”）使用本代码，即视为同意遵守本协议全部条款。
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 2. 授予的权利
+授权方免费授予被授权方以下非独占、不可转让的权利：
+(1) 个人使用：被授权方仅可将本代码用于**非商业、非盈利性的个人学习、研究、自用场景**；
+(2) 修改与分发：被授权方可修改本代码，但修改后的代码仍需遵守本协议，且分发时必须保留本协议全文及授权方署名；
+(3) 署名要求：使用、修改、分发本代码时，必须保留授权方的原始署名（如作者名、仓库链接等）。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 3. 禁止行为
+被授权方不得将本代码用于以下场景，否则授权方有权追究其法律责任：
+(1) 商业用途：包括但不限于出售本代码、将本代码集成到付费产品/服务中、通过本代码直接/间接获取经济利益（如广告收益、付费订阅、商业合作等）；
+(2) 盈利行为：无论是否直接关联本代码，禁止以本代码为基础开展任何盈利性活动；
+(3) 二次授权：禁止将本代码或其修改版本授权给第三方用于商业/盈利目的；
+(4) 违法用途：禁止将本代码用于违反法律法规、损害公共利益的场景。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 4. 免责声明
+(1) 本代码按“现状”提供，授权方不保证代码无缺陷、无错误，也不承担因使用本代码导致的任何直接/间接损失（如数据丢失、设备损坏、业务中断等）；
+(2) 被授权方使用本代码产生的一切法律责任（如侵权、违法等），均由被授权方自行承担。
+
+## 5. 协议终止
+若被授权方违反本协议任何条款，授权方有权立即终止本协议，被授权方需立即停止使用、删除所有本代码的副本，并承担相应责任。
+
+## 6. 其他
+(1) 本协议受 [你的所在地区] 法律管辖；
+(2) 本协议未尽事宜，可与授权方协商补充；
+(3) 授权方保留随时修改本协议的权利，修改后的协议将在代码发布页面公示，公示后生效。
+
+授权方：[EITarget]
